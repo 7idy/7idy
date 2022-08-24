@@ -8,11 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tidy12240805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tidy12240805" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tidy" height="30" width="40" /></a>
 <a href="https://fb.com/tidy.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tidy.developer" height="30" width="40" /></a>
 <a href="https://instagram.com/7idyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7idyyy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tidy channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tidy channel" height="30" width="40" /></a>
-<a href="https://discord.gg/Tidy#2677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tidy#2677" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
