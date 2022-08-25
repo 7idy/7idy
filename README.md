@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/tidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tidy" height="30" width="40" /></a>
 <a href="https://fb.com/tidy.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tidy.developer" height="30" width="40" /></a>
 <a href="https://instagram.com/7idyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7idyyy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uco8wzcmnasuiym3tnmfztla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uco8wzcmnasuiym3tnmfztla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCo8wZCmnasuIyM3tnmFztLA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCo8wZCmnasuIyM3tnmFztLA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
