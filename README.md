@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tidy12240805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tidy12240805" height="30" width="40" /></a>
-<a href="https://fb.com/tidy.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tidy.developer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/VN.Tidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VN.Tidy" height="30" width="40" /></a>
 <a href="https://instagram.com/7idyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7idyyy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCo8wZCmnasuIyM3tnmFztLA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCo8wZCmnasuIyM3tnmFztLA" height="30" width="40" /></a>
 </p>
