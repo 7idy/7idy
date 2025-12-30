@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi 👋, I'm Bao Nguyen Le Gia
+Hi 👋, I'm Nguyen Le Gia Bao
 
 A student at the faculty of Information Technology
 
