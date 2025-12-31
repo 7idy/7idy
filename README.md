@@ -4,6 +4,7 @@ Hi 👋, I'm **Nguyen Le Gia Bao**
 🎓 **Bachelor of Information Technology**  
 🧪 **Software Tester (Manual & Automation – Beginner)**  
 📍 Ho Chi Minh City, Vietnam
+📫 Email: nlgb2001@gmail.com
 
 I’m a graduated IT student specializing in **Information Systems**, currently working as a **Software Tester**.  
 I focus on **Manual Testing** and am actively learning **Automation Testing** to grow into a professional QA Engineer.
@@ -17,7 +18,6 @@ I focus on **Manual Testing** and am actively learning **Automation Testing** to
 
 ## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCo8wZCmnasuIyM3tnmFztLA)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nlgb2001@gmail.com)
 
 ---
 
