@@ -10,7 +10,7 @@ I’m a graduated IT student specializing in **Information Systems**, currently 
 I focus on **Manual Testing** and am actively learning **Automation Testing** to grow into a professional QA Engineer.
 
 🚀 Currently learning:
-- Selenium + Python (Automation Testing)
+- Selenium / Playwright + Python (Automation Testing)
 - PyTest Framework
 - Basic CI/CD concepts for QA
 
