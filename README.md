@@ -41,9 +41,3 @@ PyTest Framework<br>Basic CI/CD concepts for QA<br>
 ![](https://github-readme-stats.shion.dev/api?username=7idy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=7idy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=7idy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=7idy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=7idy&icon=0&color=0)](https://visitcount.itsvg.in)
