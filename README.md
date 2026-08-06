@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nguyen Le Gia Bao<br><br>🎓 Bachelor of Information Technology<br>🧪 Software Tester (Manual & Automation – Beginner)<br>📍 Ho Chi Minh City, Vietnam<br>📫 Email: nlgb2001@gmail.com<br><br>I’m a graduated IT student specializing in Information Systems, currently working as a Software Tester.<br>I focus on Manual Testing and am actively learning Automation Testing to grow into a professional QA Engineer.<br><br>🚀 Currently learning:<br><br>Selenium / Playwright + Python (Automation Testing)<br>PyTest Framework<br>Basic CI/CD concepts for QA<br>🌐 Socials<br>YouTube<br><br>  
+Hi 👋, I'm Nguyen Le Gia Bao<br><br>🎓 Bachelor of Information Technology<br>🧪 Software Tester (Manual & Automation – Beginner)<br>📍 Ho Chi Minh City, Vietnam<br>📫 Email: nlgb2001@gmail.com<br><br>I’m a graduated IT student specializing in Information Systems, currently working as a Software Tester.<br>I focus on Manual Testing and am actively learning Automation Testing to grow into a professional QA Engineer.<br><br>🚀 Currently learning:<br><br>Selenium / Playwright + Python (Automation Testing)<br>PyTest Framework<br>Basic CI/CD concepts for QA<br>
 
 
 ## 🌐 Socials:
